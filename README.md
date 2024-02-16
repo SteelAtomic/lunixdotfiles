@@ -10,6 +10,7 @@ Dotfiles for my rice lol. If you wanna use js take the files and copy em or smth
 - Browser Theme (Firefox Color is needed): [Catppuccin Mocha Red Theme](https://github.com/catppuccin/firefox)
 - Browser Start Page: [NightTab](https://addons.mozilla.org/en-GB/firefox/addon/nighttab/)
 - Discord Theme: [Catppuccin Mocha Red Theme](https://catppuccin.github.io/discord/dist/catppuccin-mocha-red.theme.css)
+- Neovim Config: [LazyVim](https://www.lazyvim.org/)
 # Credits
 - [Catppuccin github, mainly got things I did not make from there + colour scheme from there too](https://github.com/catppuccin/catppuccin)
 - [Newmanls for the rofi theme](https://github.com/polybar/polybar)
