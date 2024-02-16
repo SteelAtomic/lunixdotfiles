@@ -11,6 +11,9 @@ Dotfiles for my rice lol. If you wanna use then just take the files and copy em 
 - Browser Start Page: [NightTab](https://addons.mozilla.org/en-GB/firefox/addon/nighttab/)
 - Discord Theme: [Catppuccin Mocha Red Theme](https://catppuccin.github.io/discord/dist/catppuccin-mocha-red.theme.css)
 - Neovim Config: [LazyVim](https://www.lazyvim.org/)
+- [Pipes.sh](https://github.com/pipeseroni/pipes.sh)
+- [Btop++](https://github.com/aristocratos/btop)
+- [Cutefetch](https://github.com/alphatechnolog/cutefetch)
 # Credits
 - [Catppuccin github, mainly got things I did not make from there + colour scheme from there too](https://github.com/catppuccin/catppuccin)
 - [Newmanls for the rofi theme](https://github.com/polybar/polybar)
