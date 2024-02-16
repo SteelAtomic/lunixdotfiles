@@ -4,6 +4,7 @@ Dotfiles for my rice lol. If you wanna use then just take the files and copy em 
 - General Theme: [Catppuccin Mocha Red](https://github.com/catppuccin/catppuccin)
 - Window Manager: [i3](https://i3wm.org/)
 - Status Bar: [Polybar](https://github.com/polybar/polybar)
+- Notification Daemon: [Dunst](https://github.com/dunst-project/dunst)
 - Terminal: [Kitty](https://sw.kovidgoyal.net/kitty/)
 - Compositor: [Compfy](https://github.com/allusive-dev/compfy)
 - Launcher: [Rofi](https://github.com/davatorium/rofi)
