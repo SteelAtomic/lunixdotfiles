@@ -23,4 +23,4 @@ Dotfiles for my rice lol. If you wanna use then just take the files and copy em 
 - Creators of everything else I used for dotfiles. If I forgot to credit someone let me know. 
 # Images
 ![image1](https://github.com/SteelAtomic/lunixdotfiles/assets/74486747/2fd5ded6-6e45-4e98-a536-ef6c03a02638)
-![2ndimage](https://github.com/SteelAtomic/lunixdotfiles/assets/74486747/56b2f0f8-833b-4a09-941e-aedf1ba74d3e)
+![lastimg](https://github.com/SteelAtomic/lunixdotfiles/assets/74486747/dd84a3ba-0f61-446e-8bf1-ea76e0fbf756)
