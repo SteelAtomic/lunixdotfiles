@@ -13,6 +13,7 @@ Dotfiles for my rice lol. If you wanna use js take the files and copy em or smth
 # Credits
 - [Catppuccin github, mainly got things I did not make from there + colour scheme from there too](https://github.com/catppuccin/catppuccin)
 - [Newmanls for the rofi theme](https://github.com/polybar/polybar)
+- [Jluttine for the original rofi power menu](https://github.com/jluttine/rofi-power-menu)
 - Creators of everything else I used for dotfiles. If I forgot to credit someone let me know. 
 # Images
 ![image1](https://github.com/SteelAtomic/lunixdotfiles/assets/74486747/2fd5ded6-6e45-4e98-a536-ef6c03a02638)
