@@ -8,6 +8,7 @@ Dotfiles for my rice lol. If you wanna use then just take the files and copy em 
 - Terminal: [Kitty](https://sw.kovidgoyal.net/kitty/)
 - Compositor: [Compfy](https://github.com/allusive-dev/compfy)
 - Launcher: [Rofi](https://github.com/davatorium/rofi)
+- File Manager: [Yazi](https://github.com/sxyazi/yazi)
 - Browser Theme (Firefox Color is needed): [Catppuccin Mocha Red Theme](https://github.com/catppuccin/firefox)
 - Browser Start Page: [NightTab](https://addons.mozilla.org/en-GB/firefox/addon/nighttab/)
 - Discord Theme: [Catppuccin Mocha Red Theme](https://catppuccin.github.io/discord/dist/catppuccin-mocha-red.theme.css)
