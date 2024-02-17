@@ -16,7 +16,7 @@ Dotfiles for my rice lol. If you wanna use then just take the files and copy em 
 - [GTK Theme](https://github.com/catppuccin/gtk)
 - [Pipes.sh](https://github.com/pipeseroni/pipes.sh)
 - [Btop++](https://github.com/aristocratos/btop)
-- [Cutefetch](https://github.com/alphatechnolog/cutefetch)
+- [Meowfetch](https://github.com/faynopi/meowfetch)
 # Credits
 - [Catppuccin github, mainly got things I did not make from there + colour scheme from there too](https://github.com/catppuccin/catppuccin)
 - [Newmanls for the rofi theme](https://github.com/polybar/polybar)
