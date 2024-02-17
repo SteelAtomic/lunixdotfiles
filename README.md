@@ -23,5 +23,6 @@ Dotfiles for my rice lol. If you wanna use then just take the files and copy em 
 - [Jluttine for the original rofi power menu](https://github.com/jluttine/rofi-power-menu)
 - Creators of everything else I used for dotfiles. If I forgot to credit someone let me know. 
 # Images
-![image1](https://github.com/SteelAtomic/lunixdotfiles/assets/74486747/2fd5ded6-6e45-4e98-a536-ef6c03a02638)
-![lastimg](https://github.com/SteelAtomic/lunixdotfiles/assets/74486747/dd84a3ba-0f61-446e-8bf1-ea76e0fbf756)
+![20](https://github.com/SteelAtomic/lunixdotfiles/assets/74486747/34354558-d4a6-4c75-8646-a7bd036593e8)
+![21](https://github.com/SteelAtomic/lunixdotfiles/assets/74486747/58b878c4-3db4-4229-8668-d8d982e1961b)
+
