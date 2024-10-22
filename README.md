@@ -1,5 +1,6 @@
 # My Lunix Dotfiles
 Dotfiles for my rice lol. If you wanna use then just take the files and copy em or smth
+(this shit is severely outdated and dogshit i need to redo probably EVERYTHING so um yeah :P)
 # Stuff used
 - General Theme: [Catppuccin Mocha Red](https://github.com/catppuccin/catppuccin)
 - Window Manager: [i3](https://i3wm.org/)
